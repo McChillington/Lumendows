@@ -17,7 +17,7 @@ Preset saving and loading
 1. Connect pins
      On the ARGB connector this project is designed for there is 3 pins. The pinout is
  ┌─────────────────────┐
- │ 1 │ 2 │   gap   │ 3 │
+ | 1 │ 2 │   gap   │ 3 │
  └─────────────────────┘
 # Python
 ## Installation instructions
