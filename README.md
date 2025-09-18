@@ -17,9 +17,11 @@ Preset saving and loading
 1. Connect pins
      On the ARGB connector this project is designed for there is 3 pins. The pinout is
 
-   | PIN 1 (5v power) | PIN 2 (Signal) | GAP | PIN 3 |
+   | PIN 1 (5v power) | PIN 2 (Signal) | GAP | PIN 3 (Ground) |
 
+Connect PIN 1 to the 5V on the arduino, connect PIN 2 to pin DIGITAL 6, connect PIN 3 to GND.
 
+2. Run code
 # Python
 ## Installation instructions
 1. Make a new folder to keep all files organized (recommended)
