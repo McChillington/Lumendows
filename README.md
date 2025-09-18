@@ -1,4 +1,4 @@
-# ARGB Controller
+# LumenOS
 
 A Python application for controlling addressable RGB lighting systems.
 
@@ -16,3 +16,5 @@ A Python application for controlling addressable RGB lighting systems.
 1. Install dependencies:
    ```bash
    pip install PyQt5 pyserial
+   ~~~
+   
