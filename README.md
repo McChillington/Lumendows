@@ -1,5 +1,5 @@
 # LumenOS
-
+#LINUX ONLY FOR NOW
 A Python application for controlling addressable RGB lighting systems.
 
 ## Features
@@ -16,9 +16,10 @@ A Python application for controlling addressable RGB lighting systems.
 3. make python venv
    this is needed to install the packages. This step is required on Linux but not on windows. However it simplifies package managment so this step is recomended regardless.
    Linux:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 Windows:
    ```bash
       python -m venv venv
@@ -28,4 +29,5 @@ Windows:
       ```bash
          pip install PyQt5 pyserial Pillow pyinstaller
 
-6. Run build.py: 
+6. Run build.py:
+   This script makes the application 
