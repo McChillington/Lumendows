@@ -1,5 +1,5 @@
 # LumenOS
-#LINUX ONLY FOR NOW
+#  LINUX ONLY FOR NOW
 A Python application for controlling addressable RGB lighting systems.
 
 ## Features
