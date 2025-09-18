@@ -17,6 +17,7 @@ A Python application for controlling addressable RGB lighting systems.
    '''bash
    python3 -m venv venv
    source venv/bin/activate
+   
 5. Install dependencies:
    ```bash
    pip install PyQt5 pyserial Pillow pyinstaller
