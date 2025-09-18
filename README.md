@@ -26,8 +26,8 @@ Windows:
       venv\Scripts\activate
    ```
 5. Install dependencies:
-      ```bash
-         pip install PyQt5 pyserial Pillow pyinstaller
+   ```bash
+      pip install PyQt5 pyserial Pillow pyinstaller
 
 6. Run build.py:
    This script makes the .PKG file
