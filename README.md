@@ -16,9 +16,9 @@ Preset saving and loading
 # Arduino
 1. Connect pins
      On the ARGB connector this project is designed for there is 3 pins. The pinout is
- ┌─────────────────────┐
- | 1 │ 2 │   gap   │ 3 │
- └─────────────────────┘
+| PIN 1 (5v power) | PIN 2 (Signal) | GAP | PIN 3 |
+
+
 # Python
 ## Installation instructions
 1. Make a new folder to keep all files organized (recommended)
