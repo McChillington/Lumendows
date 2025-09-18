@@ -24,10 +24,13 @@ Windows:
    ```bash
       python -m venv venv
       venv\Scripts\activate
-```
+   ```
 5. Install dependencies:
       ```bash
          pip install PyQt5 pyserial Pillow pyinstaller
 
 6. Run build.py:
-   This script makes the application 
+   This script makes the .PKG file
+7. Run install.py (recomended)
+   This script adds the application to the app drawer for easier acces
+
