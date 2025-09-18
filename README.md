@@ -14,11 +14,18 @@ A Python application for controlling addressable RGB lighting systems.
 1. Make a new folder tp keep all files organized (recomended)
 2. change directories to the folder
 3. make python venv
-   '''bash
+   this is needed to install the packages. This step is required on Linux but not on windows. However it simplifies package managment so this step is recomended regardless.
+   Linux:
+   ```bash
    python3 -m venv venv
    source venv/bin/activate
-   
-5. Install dependencies:
+Windows:
    ```bash
-   pip install PyQt5 pyserial Pillow pyinstaller
-    
+      python -m venv venv
+      venv\Scripts\activate
+```
+5. Install dependencies:
+      ```bash
+         pip install PyQt5 pyserial Pillow pyinstaller
+
+6. Run build.py: 
