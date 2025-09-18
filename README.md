@@ -27,7 +27,7 @@ This is needed to install the packages.
 python3 -m venv venv
 source venv/bin/activate
 ```
- 4.Install dependencies:
+4. Install dependencies:
 ```bash
 pip install PyQt5 pyserial Pillow pyinstaller
 ```
