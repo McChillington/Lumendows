@@ -21,7 +21,7 @@ Preset saving and loading
 
 Connect PIN 1 to the 5V on the arduino, connect PIN 2 to pin DIGITAL 6, connect PIN 3 to GND.
 
-2. Run code
+2. Run LumenOS_arduino.ino
 # Python
 ## Installation instructions
 1. Make a new folder to keep all files organized (recommended)
